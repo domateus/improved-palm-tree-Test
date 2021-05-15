@@ -1,0 +1,4 @@
+.vscode
+lib/**
+!.gitkeep
+test.txt
